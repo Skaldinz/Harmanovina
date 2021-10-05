@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Dobrý den, vítejte u nás ve večerce u Diamantového kliku. Dnes pro tebé mám 20 krásných potravin");
+        System.out.println("Dobrý den, vítejte u nás ve večerce u Diamantového kliku. Dnes pro tebé mám krásná zvířatka");
         Scanner sc = new Scanner(System.in);
         String [] klauniada ={"Lev","Tygr","Slon","Sova","Leopard","Velbloud","Zajda"};
         int [] numForAnimals = new int[klauniada.length];
